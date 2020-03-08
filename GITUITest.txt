@@ -2,4 +2,3 @@ THis is commiting and pushing GIT UI
 
 Added from github
 
-Edited from git ui local
