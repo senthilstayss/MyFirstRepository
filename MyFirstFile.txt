@@ -5,3 +5,5 @@ Next edited from github itself to see changes from our local.
 Next Edited by Developer 2.
 
 Next Edited by Developer 1.
+
+Master branch file modified.
